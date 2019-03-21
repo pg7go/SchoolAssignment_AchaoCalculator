@@ -1,0 +1,13 @@
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\bin\Debug\AchaoCalculator.exe
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\bin\Debug\AchaoCalculator.pdb
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\bin\Debug\MetroFramework.Design.dll
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\bin\Debug\MetroFramework.dll
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\obj\Debug\AchaoCalculator.csprojAssemblyReference.cache
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\obj\Debug\AchaoCalculator.Properties.Resources.resources
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\obj\Debug\AchaoCalculator.csproj.GenerateResource.cache
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\obj\Debug\AchaoCalculator.csproj.CoreCompileInputs.cache
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\obj\Debug\AchaoCalculator.csproj.CopyComplete
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\obj\Debug\AchaoCalculator.exe
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\obj\Debug\AchaoCalculator.pdb
+C:\Users\13982\Desktop\学校相关\哎！是作业\SchoolAssignment_AchaoCalculator\AchaoCalculator\AchaoCalculator\obj\Debug\AchaoCalculator.Form1.resources
