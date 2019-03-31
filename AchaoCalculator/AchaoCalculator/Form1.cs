@@ -24,8 +24,8 @@ namespace AchaoCalculator
         Random random = new Random();
         private void CreateQuestion()
         {
-            int num1 = random.Next() % 1000;
-            int num2 = random.Next() % 1000;
+            int num1 = random.Next() % 100;
+            int num2 = random.Next() % 100;
             int cal_type = random.Next() % 4;
             float result=0;
             string fx="";
@@ -45,9 +45,12 @@ namespace AchaoCalculator
                     break;
                 case 3:
                     fx = "÷";
-                    result = (float)num1 / num2;
-                    result = (float)Math.Round(result, 2);
-                    break;
+                    result = num1 * num2;
+                    ListViewItem item2 = new ListViewItem();
+                    item2.Text = result.ToString() + " " + fx + " " + num2.ToString() + " = ";
+                    item2.SubItems.Add(num1.ToString());
+                    metroListView1.Items.Add(item2);
+                    return;
             }
             ListViewItem item = new ListViewItem();
             item.Text = num1.ToString() + " " + fx + " " + num2.ToString()+" = ";
